@@ -4,6 +4,7 @@
     padding: 1%;
     border-radius: 1cm;
 width: fit-content;
+float: right;
 
 }
 
@@ -27,4 +28,14 @@ background-color: #20753b;
 color: rgb(255, 255, 255);
 border-radius: 60%;
 
+}
+
+.homeheading {
+font-size: 2cm;
+    text-decoration: underline;
+
+
+}
+body{ 
+    background-color: rgba(226, 236, 234, 0.968);
 }
