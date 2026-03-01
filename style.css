@@ -39,3 +39,16 @@ font-size: 2cm;
 body{ 
     background-color: rgba(226, 236, 234, 0.968);
 }
+.tuataraheading{
+
+    font-size: 2cm;
+}
+.flex-container{
+    display: flex;
+}
+.flex-container div{
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+
+}
