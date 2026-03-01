@@ -1,0 +1,31 @@
+
+.tuatara {
+    width: 300px;
+    background-color: grey;
+    border-radius: 50%;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.flex-container div {
+    /* Optional styling for visibility */
+
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+}
+
+.bigger{
+font-size:30px;
+
+}
+
+.heading{
+    font-size: 50px;
+}
+
+.heading1{
+    font-size: 35px;
+}
