@@ -65,3 +65,14 @@ display: flex;
 justify-content: space-between;
 
 }
+
+.skill1-flex-display{
+display: flex;
+justify-content: space-between;
+
+}
+
+.skill1-parpgaph{
+font-size: 30px;
+
+}
