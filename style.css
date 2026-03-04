@@ -33,14 +33,18 @@ border-radius: 60%;
 .homeheading {
 font-size: 2cm;
     text-decoration: underline;
-
+font-family:Georgia, 'Times New Roman', Times, serif;
 
 }
 body{ 
     background-color: rgba(226, 236, 234, 0.968);
 }
+.sub{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px; ;
+}
 .tuataraheading{
-
+    font-family:Georgia, 'Times New Roman', Times, serif;
     font-size: 2cm;
 }
 .writhingwhy {
@@ -49,6 +53,7 @@ font-size: 30px;
 }
 .subheadingtuatara{ 
 font-size: 30px;
+font-family:Georgia, 'Times New Roman', Times, serif;
 
 }
 
@@ -75,6 +80,7 @@ display: flex;
 .subheadingtuatara2{ 
     font-size: 30px;
  text-align: center;
+ font-family:Georgia, 'Times New Roman', Times, serif;
     }
 
  .skill1-parpgaph{
@@ -94,4 +100,9 @@ height: 10.7cm;
 .back-to-top{
 float: left;
 font-size: 50px;
+}
+.homeheading-sub{
+    font-size: 1.5cm;
+    text-decoration: underline;
+    font-family:Georgia, 'Times New Roman', Times, serif;
 }
