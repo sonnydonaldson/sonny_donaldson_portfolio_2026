@@ -51,6 +51,7 @@ font-size: 30px;
 font-size: 30px;
 
 }
+
 .overview{
 font-size: 50px;
 text-align: center;
@@ -68,11 +69,29 @@ justify-content: space-between;
 
 .skill1-flex-display{
 display: flex;
-justify-content: space-between;
+
 
 }
+.subheadingtuatara2{ 
+    font-size: 30px;
+ text-align: center;
+    }
 
-.skill1-parpgaph{
-font-size: 30px;
+ .skill1-parpgaph{
+    font-size: 30px;
+   }
 
+.img-screenshot3{
+width: 15cm;
+height: 10.7cm;
+
+}
+.skill2-parpgaph{
+    font-size: 30px;
+
+    }
+
+.back-to-top{
+float: left;
+font-size: 50px;
 }
