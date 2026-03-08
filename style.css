@@ -92,17 +92,35 @@ width: 15cm;
 height: 10.7cm;
 
 }
-.skill2-parpgaph{
+.skill2-parpgaph {
     font-size: 30px;
 
     }
 
-.back-to-top{
+.back-to-top {
 float: left;
 font-size: 50px;
 }
-.homeheading-sub{
+.homeheading-sub {
     font-size: 1.5cm;
     text-decoration: underline;
     font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.about-me {
+font-size: 30px;
+font-style: italic;
+font-family:'lobster';
+text-align: center;
+}
+.about-me-pargrpgh-display-flex {
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+img {
+    width: 100px;
 }
