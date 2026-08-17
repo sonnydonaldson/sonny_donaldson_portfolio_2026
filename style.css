@@ -150,3 +150,28 @@ font-size: 20px;
     font-family:Georgia, 'Times New Roman', Times, serif;
     font-size: 2cm;
 }
+.chestscreenshot{
+    width: 500px;
+}
+.chest-flex-display{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.subheadingchest{ 
+    font-size: 40px;
+    font-family:'Times New Roman', Times, serif;
+    
+
+}
+.subheadingchest2-flex-display{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-around;
+    font-size: 30px;
+
+}
+.skill1-flex-display-chest{
+    display: flex;
+    justify-content: space-A;
+}
