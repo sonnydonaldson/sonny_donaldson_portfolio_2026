@@ -173,5 +173,9 @@ font-size: 20px;
 }
 .skill1-flex-display-chest{
     display: flex;
-    justify-content: space-A;
+    justify-content: space-between;
 }
+.skill1-parpgaph-chest{
+    font-size: 30px;
+    width: 650px;
+   }
