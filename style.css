@@ -179,3 +179,6 @@ font-size: 20px;
     font-size: 30px;
     width: 650px;
    }
+.list{
+    float: right;
+}
